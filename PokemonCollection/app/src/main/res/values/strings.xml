@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Pokemon Collection</string>
+    <string name="nextbnt">Next</string>
+    <string name="previousbnt">Previous</string>
+    <string name="pokemonlist_json">pokemonlist.json</string>
+</resources>

@@ -1,0 +1,128 @@
+[
+    {
+      "name": "Bulbasaur",
+      "img": "bulbasaur",
+      "type": "Grass, Poison",
+      "weaknesses": "Fire, Ice, Flying, Psychic",
+      "information": "For some time after its birth, it uses the nutrients that are packed into the seed on its back in order to grow."
+    },
+    {
+      "name": "Ivysaur",
+      "img": "ivysaur",
+      "type": "Grass, Poison",
+      "weaknesses": "Fire, Ice, Flying, Psychic",
+      "information": "The more sunlight Ivysaur bathes in, the more strength wells up within it, allowing the bud on its back to grow larger."
+    },
+    {
+      "name": "Venusaur",
+      "img": "venusaur",
+      "type": "Grass, Poison",
+      "weaknesses": "Fire, Ice, Flying, Psychic",
+      "information": "While it basks in the sun, it can convert the light into energy. As a result, it is more powerful in the summertime."
+    },
+    {
+      "name": "Charmander",
+      "img": "charmander",
+      "type": "Fire",
+      "weaknesses": "Water, Ground, Rock",
+      "information": "The flame on its tail shows the strength of its life-force. If Charmander is weak, the flame also burns weakly."
+    },
+    {
+      "name": "Charmeleon",
+      "img": "charmeleon",
+      "type": "Fire",
+      "weaknesses": "Water, Ground, Rock",
+      "information": "When it swings its burning tail, the temperature around it rises higher and higher, tormenting its opponents."
+    },
+    {
+      "name": "Charizard",
+      "img": "charizard",
+      "type": "Fire",
+      "weaknesses": "Water, Ground, Rock",
+      "information": "If Charizard becomes truly angered, the flame at the tip of its tail burns in a light blue shade."
+    },
+    {
+      "name": "Squirtle",
+      "img": "squirtle",
+      "type": "Water",
+      "weaknesses": "Grass, Electric",
+      "information": "After birth, its back swells and hardens into a shell. It sprays a potent foam from its mouth."
+    },
+    {
+      "name": "Wartortle",
+      "img": "wartortle",
+      "type": "Water",
+      "weaknesses": "Grass, Electric",
+      "information": "Wartortle’s long, furry tail is a symbol of longevity, so this Pokémon is quite popular among older people."
+    },
+    {
+      "name": "Blastoise",
+      "img": "blastoise",
+      "type": "Water",
+      "weaknesses": "Grass, Electric",
+      "information": "It deliberately increases its body weight so it can withstand the recoil of the water jets it fires."
+    },
+    {
+      "name": "Caterpie",
+      "img": "caterpie",
+      "type": "Bug",
+      "weaknesses": "Fire, Flying, Rock",
+      "information": "For protection, it releases a horrible stench from the antenna on its head to drive away enemies."
+    },
+    {
+      "name": "Metapod",
+      "img": "metapod",
+      "type": "Bug",
+      "weaknesses": "Fire, Flying, Rock",
+      "information": "It is waiting for the moment to evolve. At this stage, it can only harden, so it remains motionless to avoid attack."
+    },
+    {
+    "name": "Butterfree",
+    "img": "butterfree",
+    "type": "Bug, Flying",
+    "weaknesses": "Fire, Flying, Rock*, Ice, Electric",
+    "information": "It loves the nectar of flowers and can locate flower patches that have even tiny amounts of pollen."
+    },
+    {
+      "name": "Weedle",
+      "img": "weedle",
+      "type": "Bug, Posion",
+      "weaknesses": "Fire, Flying, Rock, Psychic",
+      "information": "Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves."
+    },
+    {
+      "name": "Kakuna",
+      "img": "kakuna",
+      "type": "Bug, Posion",
+      "weaknesses": "Fire, Flying, Rock, Psychic",
+      "information": "Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy."
+    },
+    {
+      "name": "Beedrill",
+      "img": "beedrill",
+      "type": "Bug, Posion",
+      "weaknesses": "Fire, Flying, Rock, Psychic",
+      "information": "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly."
+    },
+    {
+      "name": "Pidgey",
+      "img": "pidgey",
+      "type": "Normal, Flying",
+      "weaknesses": "Electric, Ice, Rock",
+      "information": "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back."
+    },
+    {
+      "name": "Pidgeotto",
+      "img": "pidgeotto",
+      "type": "Normal, Flying",
+      "weaknesses": "Electric, Ice, Rock",
+      "information": "This Pokémon is full of vitality. It constantly flies around its large territory in search of prey."
+    },
+  {
+    "name": "Pidgeot",
+    "img": "pidgeot",
+    "type": "Normal, Flying",
+    "weaknesses": "Electric, Ice, Rock",
+    "information": "This Pokémon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons."
+  }
+]

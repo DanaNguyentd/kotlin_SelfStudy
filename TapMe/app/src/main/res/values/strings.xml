@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tap Me</string>
+    <string name="start_game">❤Click start to begin the game❤</string>
+    <string name="step_1">I need a massage to be happy.\n❤️Tap to massage me❤️</string>
+    <string name="step_2">That\'s good, please more</string>
+    <string name="step_3">Much much better, please more</string>
+    <string name="happy_end">Enough now! I\'m happy ❤️❤️❤️\nTap to start again</string>
+    <string name="angry_end">Nooo! too much. I\'m angry\nTap to start again</string>
+</resources>
